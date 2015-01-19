@@ -55,7 +55,7 @@ public class MainActivity extends ActionBarActivity {
             public void onClick(View arg0) {
 //                jsonContent();
 //                CallHellow();
-                helloText.setText("GGininDer WTF you ggggggg");
+                helloText.setText("GGininDer WTF you jjj");
             }
         });
         //hello
