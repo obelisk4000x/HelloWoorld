@@ -54,8 +54,8 @@ public class MainActivity extends ActionBarActivity {
             @Override
             public void onClick(View arg0) {
 //                jsonContent();
-//                CallHellow();
-                helloText.setText("GGininDer WTF you jjj");
+                CallHellow();
+//                helloText.setText("GGininDer");
             }
         });
         //hello
